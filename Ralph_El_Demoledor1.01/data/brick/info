@@ -1,0 +1,6 @@
+FILES: 2
+# SYNTAX:
+# filename of the frame, milliseconds to pause afterwards,
+# the RGB of the transparent part.
+brick.bmp       100    0 255 0
+brick2.bmp      100    0 255 0

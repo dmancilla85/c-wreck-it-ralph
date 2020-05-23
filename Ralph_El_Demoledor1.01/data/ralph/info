@@ -1,0 +1,6 @@
+FILES: 2
+# SYNTAX:
+# filename of the frame, milliseconds to pause afterwards,
+# the RGB of the transparent part.
+ralph.bmp       50    0 255 0
+Ralph_smash.bmp  50    0 255 0

@@ -1,0 +1,11 @@
+FILES: 5
+# SYNTAX:
+# filename of the frame, milliseconds to pause afterwards,
+# the RGB of the transparent part.
+fixed_window.bmp       1000    0 255 0
+fixed_window_2.bmp      1000    0 255 0
+broken1_window.bmp      1000    0 255 0
+broken2_window.bmp      1000    0 255 0
+vacia.bmp      1000    0 255 0
+fix_special.bmp      1000    0 255 0
+brok_special.bmp      1000    0 255 0

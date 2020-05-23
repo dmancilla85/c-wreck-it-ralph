@@ -1,0 +1,6 @@
+FILES: 2
+# SYNTAX:
+# filename of the frame, milliseconds to pause afterwards,
+# the RGB of the transparent part.
+pie.bmp	100	0	255	0
+pie2.bmp	100	0	255	0

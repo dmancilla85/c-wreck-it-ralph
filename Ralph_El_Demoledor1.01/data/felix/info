@@ -1,0 +1,10 @@
+FILES: 6
+# SYNTAX:
+# filename of the frame, milliseconds to pause afterwards,
+# the RGB of the transparent part.
+felix.bmp       100    0 255 0
+felix_jump.bmp  100    0 255 0
+felix_fixing.bmp 100    0 255 0
+losealllives.bmp 100 0 255 0
+felixwhite.bmp 100 0 255 0
+felix_herido.bmp 100 0 255 0
